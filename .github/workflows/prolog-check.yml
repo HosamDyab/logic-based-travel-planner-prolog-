@@ -7,9 +7,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Set up SWI-Prolog
-      uses: Amourspirit/setup-swi-prolog@v1
-      with:
-        swi-prolog-version: '8.4.2'
+    - name: Install SWI-Prolog
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y swi-prolog
     - name: Check Prolog Syntax
-      run: swipl -g "consult(code/travel_planner.pl), halt(0)" -t "halt(1)"
+      run: swipl -g "consult('code/travel_planner.pl'), halt(0)" -t "halt(1)"
