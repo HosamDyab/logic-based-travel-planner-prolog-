@@ -1,8 +1,8 @@
 # Logic-based Travel Planner 🚀
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![GitHub Issues](https://img.shields.io/github/issues/Hosam-Dyab/logic-based-travel-planner?color=orange)  
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Hosam-Dyab/logic-based-travel-planner?color=green)  
+![GitHub Issues](https://img.shields.io/github/issues/HosamDyab/logic-based-travel-planner?color=orange)  
+![GitHub Last Commit](https://img.shields.io/github/last-commit/HosamDyab/logic-based-travel-planner?color=green)  
 
 **Welcome to the Logic-based Travel Planner**, an innovative solution leveraging **Prolog** to revolutionize travel planning with personalized, budget-friendly itineraries. Developed by the *TravelLogic Crew* for the *Logic Programming Course* at **Modern University for Technology & Information**, this mid-term project showcases modern logic programming techniques applied to real-world challenges.
 
