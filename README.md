@@ -119,16 +119,14 @@ Models the **procedural workflow**.
 
 ---
 
-## 💻 Prolog Implementation
+## 🎯 Conclusion
+The Logic-based Travel Planner is a pioneering effort in logic programming, delivering a scalable, user-centric system. This mid-term showcases Prolog’s power in handling travel planning complexities, with diagrams illustrating its adaptability. Future plans include a GUI, real-time data, and multi-user support, positioning it as a leader in intelligent travel tech.
 
-Explore the **Prolog code** in [`code/travel_planner.pl`](code/travel_planner.pl).
+---
 
-<details>
-<summary>View Code Excerpt</summary>
-
-```prolog
-% Facts
-city(cairo). city(aswan). city(portsaid). city(luxor).
-hotel(cairo, 'four_seasons', 2000, 4.8).
-% Rules
-estimated_budget(City, Days, Budget) :- ...
+## 📚 References
+- Booch, G., Rumbaugh, J., & Jacobson, I. (2005). The Unified Modeling Language User Guide (2nd ed.). Addison-Wesley.
+- Bratko, I. (2012). Prolog Programming for Artificial Intelligence (4th ed.). Addison-Wesley.
+- Object Management Group (OMG). (2023). UML Specification, Version 2.5.1. https://www.omg.org/spec/UML/2.5.1
+- SWI-Prolog. (2023). Documentation. https://www.swi-prolog.org/
+- Sommerville, I. (2015). Software Engineering (10th ed.). Pearson.
