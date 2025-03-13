@@ -130,3 +130,8 @@ The Logic-based Travel Planner is a pioneering effort in logic programming, deli
 - Object Management Group (OMG). (2023). UML Specification, Version 2.5.1. https://www.omg.org/spec/UML/2.5.1
 - SWI-Prolog. (2023). Documentation. https://www.swi-prolog.org/
 - Sommerville, I. (2015). Software Engineering (10th ed.). Pearson.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
